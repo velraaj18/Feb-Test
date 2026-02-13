@@ -8,7 +8,7 @@ export default function ValentinePage() {
   const [displayText, setDisplayText] = useState("")
   const [showReasons, setShowReasons] = useState(false)
 
-  const correctPassword = "veni" // CHANGE THIS
+  const correctPassword = "veni" 
 
   const message =
     "From the moment you came into my life, everything became brighter. You are my favorite notification, my best decision, and my forever person ❤️"
